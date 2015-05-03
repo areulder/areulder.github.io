@@ -1,14 +1,14 @@
 @font-face {
-	font-family:'LUNABAR';
-	src: url('./fonts/LUNABAR_.ttf');
+	font-family: 'lunabar';
+	src: url('./fonts/lunabar.ttf');
 }
 h1 {
-	font-family: 'LUNABAR';
+	font-family: 'lunabar';
 	font-size: 18pt;
 }
 
 h2 {
-	font-family: 'LUNABAR';
+	font-family: 'lunabar';
 	font-size: 16pt;
 }
 
