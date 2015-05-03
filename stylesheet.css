@@ -31,3 +31,14 @@ body {
 	color: black;
 	background-color: #90a4a4;
 }
+
+li {
+	list-style: none;
+	display: inline-block;
+	padding-right: 3em;
+}
+
+ul {
+	width: 100%;
+	text-align: right;
+}
