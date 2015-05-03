@@ -3,11 +3,20 @@
 	src: url('./fonts/lunabar.ttf');
 	}
 
+* {
+	margin: 0;
+}
+
 #landing {
 	transform: translate(-50%,-50%);
 	position: absolute;
 	left: 50%;
 	top: 50%;
+}
+#content {
+	padding: 1em;
+	width: 100%;
+	text-align: center;
 }
 
 h1, h2 {
@@ -33,6 +42,11 @@ body {
 }
 nav {
 	background-color: #FFFFFF;
+	padding: 1em;
+	font-family: 'lunabar';
+	font-weight: bold;
+	font-size: 16pt;
+	margin-bottom: 1em;
 }
 nav li {
 	list-style: none;
