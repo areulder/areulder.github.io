@@ -1,0 +1,4 @@
+markdown: rdiscount
+highligher: pygments
+permalink: /blog/:year/:month/:day/:title
+url: http://areulder.github.io
