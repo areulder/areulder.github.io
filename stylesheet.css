@@ -3,6 +3,13 @@
 	src: url('./fonts/lunabar.ttf');
 	}
 
+#landing {
+	transform: translate(-50%, 50%);
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
+
 h1, h2 {
 	font-family: 'lunabar';
 	width: 100%;
