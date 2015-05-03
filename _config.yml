@@ -3,3 +3,5 @@ highligher: pygments
 permalink: /blog/:year/:month/:day/:title
 include: ['/_pages']
 url: http://areulder.github.io
+title: Erin Davies Photography
+author: Erin Davies
