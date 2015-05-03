@@ -31,14 +31,13 @@ body {
 	color: black;
 	background-color: #90a4a4;
 }
-
-li {
+nav li {
 	list-style: none;
 	display: inline-block;
 	padding-right: 3em;
 }
 
-ul {
+nav ul {
 	width: 100%;
 	text-align: right;
 }
