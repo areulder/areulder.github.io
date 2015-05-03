@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "LUNABAR";
+	src: url ("fonts/LUNABAR_.ttf");
+}
+h1 {
+	font-family: "LUNABAR";
+}
+
+body {
+	font-family: helvetica;
+	font-size: 16pt;
+	color: black;
+	background-color: #605454;
+}
