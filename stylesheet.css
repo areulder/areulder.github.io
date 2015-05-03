@@ -31,6 +31,9 @@ body {
 	color: black;
 	background-color: #90a4a4;
 }
+nav {
+	background-color: #FFFFFF;
+}
 nav li {
 	list-style: none;
 	display: inline-block;
